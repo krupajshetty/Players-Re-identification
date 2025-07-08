@@ -54,7 +54,7 @@ Run the tracking script:
 python scripts.py
 ```
 
-You can stop the script early by pressing **q** while the video preview window is open.
+You can stop the script early by pressing **Ctrl+C** while the video preview window is open.
 
 ---
 
@@ -95,7 +95,7 @@ Stealth_Mode/
 │   ├── tracked_output_deepsort.mp4
 │   └── tracking_log.csv
 ├── videos/
-│   └── 15sec_input_720p.mp4   # your input video
+│   └── 15sec_input_720p.mp4   # input video
 ├── scripts.py                 # main tracking script
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # this file
