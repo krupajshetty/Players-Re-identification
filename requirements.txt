@@ -1,0 +1,6 @@
+torch
+opencv-python
+numpy
+filterpy
+scikit-image
+ultralytics
